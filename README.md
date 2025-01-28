@@ -36,3 +36,4 @@ Feel free to explore, contribute, or reach out if you'd like to collaborate!
 code-x-r/code-x-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![An image of @codexr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codexr)](https://holopin.io/@codexr)
