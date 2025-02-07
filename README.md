@@ -3,7 +3,7 @@
 🎓 I’m a B.Tech Computer Science and Engineering with specialisation in Artificial Intelligence & Machine Learning student passionate about learning and building exciting projects in the tech world.
 
  🔍 About Me
-+ 🎓 Currently learning: HTML, CSS, Python, AI, and more!  
++ 🎓 Currently learning: HTML, CSS, Python, AI, Javascript, Vue, MERN and more!  
 + 🌱 Interested in: GSOC, Web development, AI, designing creative solutions, and using tech for social impact.
 + 💻 Skills: HTML5, CSS3, JavaScript(learning), Python, Git/GitHub, UI/UX(learning).  
 + 📚 Favorite topics: Building websites, exploring AI, and discovering patterns in code and design.
@@ -26,7 +26,7 @@ I'm always open to collaboration on creative and innovative projects. Whether it
 
 
  🛠️ Technologies I Use:
-+ Languages: Python, HTML, CSS  
++ Languages: Python, HTML, CSS, JS, Vue
 + Tools: Git, GitHub, VS Code, Figma, Canva
 
 Feel free to explore, contribute, or reach out if you'd like to collaborate!
