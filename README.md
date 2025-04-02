@@ -21,7 +21,7 @@ I'm always open to collaboration on creative and innovative projects. Whether it
 
  📬 Feel free to reach out!
 + Email: rxiddhi@gmail.com
-+ GitHub: https://github.com/code-x-r
++ GitHub: https://github.com/rxiddhi
 + Linkdein: https://www.linkedin.com/in/riddhikhera/
 
 
