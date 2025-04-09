@@ -3,20 +3,19 @@
 🎓 I’m a B.Tech Computer Science and Engineering with specialisation in Artificial Intelligence & Machine Learning student passionate about learning and building exciting projects in the tech world.
 
  🔍 About Me
-+ 🎓 Currently learning: HTML, CSS, Python, AI, Javascript, Vue, MERN and more!  
-+ 🌱 Interested in: GSOC, Web development, AI, designing creative solutions, and using tech for social impact.
-+ 💻 Skills: HTML5, CSS3, JavaScript(learning), Python, Git/GitHub, UI/UX(learning).  
++ 🎓 Tech Stack: HTML, CSS, Python, AI, Javascript, Vue, React.js, Sveltkit, and more!  
++ 🌱 Interested in: GSOC, Web development, AI, designing creative solutions, and using tech for social impact.  
 + 📚 Favorite topics: Building websites, exploring AI, and discovering patterns in code and design.
-+ ✨ Hobbies: Writing poetry, volunteering, public speaking, creating designs, raising social awareness.Also, reading about psychology and philosophy.
++ ✨ Hobbies: Volunteering, public speaking, creating designs, studying nutrition, raising social awareness, writing articles. Also, reading about psychology and philosophy.
 
  🌍 Let's Connect!
-I'm always open to collaboration on creative and innovative projects. Whether it’s designing a website, building AI-driven applications, or contributing to social causes, I’m excited to work with like-minded people who want to make an impact.
+I'm always open to collaboration on creative and innovative projects. Whether designing a website, building AI-driven applications, or contributing to social causes, I’m excited to work with like-minded people who want to make an impact.
 
 💞️ What I’m Looking to Collaborate On
 + Open-source projects focused on AI, ML, and Developer Tools such as Browser extensions
 + Debugging tools
 + Graphic editors, UI design
-+  Coding Practice,Screen Readers and few more.
++ Coding Practice, Screen Readers and few more.
 
 
  📬 Feel free to reach out!
