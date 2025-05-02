@@ -28,9 +28,9 @@ Feel free to explore, contribute, or reach out if you'd like to collaborate!
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=rxiddhi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rxiddhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 ![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxiddhi&show_icons=true&theme=radical)
+![Riddhi's GitHub streak](https://nirzak-streak-stats.vercel.app/?user=rxiddhi&theme=dark&hide_border=false)<br/>
+![Riddhi's GitHub count](https://github-readme-stats.vercel.app/api/top-langs/?username=rxiddhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rxiddhi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
