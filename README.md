@@ -1,9 +1,5 @@
 <h2 align="center">Hey there! I'm Riddhi 👋✨</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmN3b2FzZ3A4MzBlamNwZ3k3MzlwNzYxanpuc25ia3dwMGJmcnp5aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" alt="Waving Cat" />
-</p>
-
 ---
 
 ### 🧁 About Me
