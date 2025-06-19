@@ -2,8 +2,8 @@
 
 ### 🧁 About Me
 
-🌱 BTech CSE (AI & ML) student
-🛠 Frontend Dev • UI Designer • Open Source Contributor  
+🌱 BTech CSE (AI & ML) student</br>
+🛠 Frontend Dev • UI Designer • Open Source Contributor<br/>
 🌻 Passionate about creating beautiful things that work beautifully
 ⚛️ Frameworks: React, Tailwind CSS, Next.js  
 📦 Tools: Git, GitHub, VSCode, Figma, Firebase 
