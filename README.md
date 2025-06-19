@@ -1,7 +1,5 @@
 <h2 align="center">Hey there! I'm Riddhi 👋✨</h2>
 
----
-
 ### 🧁 About Me
 
 🌱 BTech CSE (AI & ML) student
