@@ -22,7 +22,7 @@
 🌍 Tech for Good — Projects with a mission—education, sustainability, mental health, social equity<br/>
 
 
- 📬 Feel free to reach out!
+ 📬 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riddhikhera)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rxiddhi@gmail.com) 
 
