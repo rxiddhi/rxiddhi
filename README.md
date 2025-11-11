@@ -3,10 +3,9 @@
 ### 🧁 About Me
 
 🌱 BTech CSE (AI & ML) student<br/>
-🛠 Frontend Dev • UI Designer • Open Source Contributor<br/>
-🌻 Passionate about creating beautiful things that work beautifully<br/>
-📚 Learning: Full-stack web, Git best practices, and some React wizardry  <br/>
-🎨 Side quests: Poetry, painting and blog writing
+🛠 Full Stack Dev • UI Designer • Open Source Contributor<br/>
+🌻 Passionate about creative stuff that works beautifully<br/>
+🎨 Side quests: Poetry, painting, and blog writing
 
 ---
 
